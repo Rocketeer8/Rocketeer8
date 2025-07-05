@@ -33,8 +33,8 @@ I'm a 4th-year Computer Science student at Toronto Metropolitan University, pass
   Built a computer vision pipeline for mitosis tracking and classification.
 
 ## 🌐 Find Me Elsewhere
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/danny-liu-haining/)
-[Portfolio Website](https://rocketeer8.github.io/Personal-Website/)
+- 🌐 [Portfolio Website](https://rocketeer8.github.io/Personal-Website)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/danny-liu-haining)
 
 ## 🧠 Favorite Quote
 > “Failure is not the opposite of success, it is part of it.”
