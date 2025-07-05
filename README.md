@@ -10,7 +10,6 @@ I'm a 4th-year Computer Science student at Toronto Metropolitan University, pass
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## 🚀 Featured Projects
@@ -38,7 +37,7 @@ I'm a 4th-year Computer Science student at Toronto Metropolitan University, pass
 [Portfolio Website](https://rocketeer8.github.io/Personal-Website/)
 
 ## 🧠 Favorite Quote
-> “Don’t cling to a mistake just because you spent a lot of time making it.”
+> “Failure is not the opposite of success, it is part of it.”
 
 ---
 
