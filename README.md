@@ -5,8 +5,6 @@
 
 ## 💻 Tech I Work With
 
-## ⚙️ Tech Stack
-
 ### **Languages**
 ![Java](https://img.shields.io/badge/Java-5382A1?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-347AB4?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-2C5F2D?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-4A148C?style=flat&logo=c-sharp&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JS-F0DB4F?style=flat&logo=javascript&logoColor=323330) ![TypeScript](https://img.shields.io/badge/TS-2F74C0?style=flat&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00618A?style=flat&logo=database&logoColor=white)
