@@ -20,8 +20,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2368E8?style=flat&logo=docker&logoColor=white)
 
 ### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=black) ![Lambda](https://img.shields.io/badge/Lambda-BF5700?style=flat&logo=awslambda&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)  
-![EC2](https://img.shields.io/badge/EC2-F8991D?style=flat&logo=amazonec2&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=black) ![Lambda](https://img.shields.io/badge/Lambda-BF5700?style=flat&logo=awslambda&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-F8991D?style=flat&logo=amazonec2&logoColor=white)
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-116149?style=flat&logo=mongodb&logoColor=white) ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31548C?style=flat&logo=postgresql&logoColor=white)
