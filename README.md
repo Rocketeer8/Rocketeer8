@@ -15,16 +15,13 @@
 ![React](https://img.shields.io/badge/React-0A7EA2?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-DD4B25?style=flat&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-254BDD?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-0F6C78?style=flat&logo=tailwindcss&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FF8900?style=flat&logo=firebase&logoColor=white)
 
-
 ### **Backend & APIs**
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404040?style=flat&logo=express&logoColor=white) ![REST](https://img.shields.io/badge/REST_API-005A8D?style=flat&logo=api&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2368E8?style=flat&logo=docker&logoColor=white)
 
-
 ### **Cloud & DevOps**
-![AWS Lambda](https://img.shields.io/badge/Lambda-BF5700?style=flat&logo=awslambda&logoColor=white) ![AWS S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)  
-![AWS EC2](https://img.shields.io/badge/EC2-F8991D?style=flat&logo=amazonec2&logoColor=white)
-
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=black) ![Lambda](https://img.shields.io/badge/Lambda-BF5700?style=flat&logo=awslambda&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)  
+![EC2](https://img.shields.io/badge/EC2-F8991D?style=flat&logo=amazonec2&logoColor=white)
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-116149?style=flat&logo=mongodb&logoColor=white) ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31548C?style=flat&logo=postgresql&logoColor=white)
