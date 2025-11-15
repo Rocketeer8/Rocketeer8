@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Danny Liu
 
 **CS @ Toronto Metropolitan University**  
-💡 Passionate about building useful, clean, and scalable apps & solving real-world problems  
+Passionate about building useful, clean, and scalable apps & solving real-world problems  
 
 ## 💻 Tech I Work With
 
