@@ -16,34 +16,43 @@
 ## 🚀 Featured Projects
 
 ### 🔹 **Beach Ahoy!**
-An AWS Lambda–powered beach weather search tool that converts user addresses into real-time beach conditions.  
-- Built with serverless APIs using **AWS Lambda**, **Node.js**, and **Google Maps** services  
-- Achieved **<200ms response time** through optimized geocoding + weather API calls  
-- Includes auto-complete, air-quality data, and interactive map rendering for a smooth UX  
+AWS Lambda–powered beach weather search tool providing real-time local conditions.  
+- Serverless backend using **Lambda**, **Node.js**, Google Maps APIs  
+- Optimized geocoding + weather pipelines for **<200ms latency**  
+- Features auto-complete, air-quality data, and an interactive beach map  
+
+---
 
 ### 🔹 **Automated Mitosis Classifier**
-A fully Dockerized deep learning pipeline for analyzing cell division through segmentation, tracking, and mitosis classification.  
-- Integrates **Cellpose**, **TrackMate**, and custom Python classifiers  
-- Automates multi-stage processing, reducing manual analysis time by **90%**  
-- Supports large TIFF datasets and produces clear overlays + summary outputs for research use  
-- Designed for reproducibility and ease of use by non-technical collaborators  
-  
+Dockerized deep learning pipeline for automated cell-division analysis.  
+- Combines **Cellpose**, **TrackMate**, and custom Python classifiers  
+- Reduces manual lab analysis time by **90%** through full automation  
+- Outputs overlays + summary metrics for research reproducibility  
+
+---
+
 ### 🔹 **TuneTide – Full Stack Music/Livestream Platform**  
-**Next.js • TypeScript • Firebase Auth • Firestore**  
-- Built a responsive platform with real-time data syncing & secure authentication  
-- Developed 10+ modular components to scale UI features  
-- Optimized state management for smoother multi-user experiences
+Next.js • TypeScript • Firebase Auth • Firestore  
+- Responsive platform with real-time data sync and secure authentication  
+- Built **10+ modular components** to scale UI features efficiently  
+- Improved multi-user performance with optimized state management  
 
-### 🔹 **Tab Limiter – Productivity Chrome Extension**  
-A lightweight extension that limits open tabs to help users stay focused.  
-- Simple UI and intuitive UX  
-- Positive early user feedback for improving workflow
+---
 
-### 🔹 **Linux Shell (Java)**  
-A functional shell emulator featuring 20+ Unix-style commands.  
-- Built with OOP patterns (Singleton, Iterator, Polymorphism)  
-- 50+ JUnit tests, 95% coverage  
-- Reduced duplication and improved modularity by 30%  
+### 🔹 **Tab Limiter – Productivity Chrome Extension**
+A minimalistic Chrome extension that helps users reduce distraction.  
+- Simple and intuitive UI  
+- Lightweight, fast, and easy to use  
+- Positive user feedback for improving workflow focus  
+
+---
+
+### 🔹 **Linux Shell (Java)**
+A complete shell emulator supporting 20+ Unix-style commands.  
+- Designed using OOP patterns (Singleton, Iterator, Polymorphism)  
+- **50+ JUnit tests** achieving **95% coverage**  
+- Reduced code duplication by 30% through clean abstraction  
+
 
 👉 *More features coming soon*  
 
