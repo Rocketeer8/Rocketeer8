@@ -14,11 +14,19 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## 🚀 Featured Projects
-- **🔍 Beach Ahoy!**  
-  An AWS Lambda–powered weather search tool that converts addresses into live beach conditions. Reduced latency to <200ms using optimized serverless APIs and Google Maps.
-  
-- **🧠 Automated Mitosis Classifier**  
-  Dockerized deep learning pipeline that analyzes cell division via segmentation, tracking, and classification, cutting manual effort by 90% and aiding scientific research.
+
+### 🔹 **Beach Ahoy!**
+An AWS Lambda–powered beach weather search tool that converts user addresses into real-time beach conditions.  
+- Built with serverless APIs using **AWS Lambda**, **Node.js**, and **Google Maps** services  
+- Achieved **<200ms response time** through optimized geocoding + weather API calls  
+- Includes auto-complete, air-quality data, and interactive map rendering for a smooth UX  
+
+### 🔹 **Automated Mitosis Classifier**
+A fully Dockerized deep learning pipeline for analyzing cell division through segmentation, tracking, and mitosis classification.  
+- Integrates **Cellpose**, **TrackMate**, and custom Python classifiers  
+- Automates multi-stage processing, reducing manual analysis time by **90%**  
+- Supports large TIFF datasets and produces clear overlays + summary outputs for research use  
+- Designed for reproducibility and ease of use by non-technical collaborators  
   
 ### 🔹 **TuneTide – Full Stack Music/Livestream Platform**  
 **Next.js • TypeScript • Firebase Auth • Firestore**  
