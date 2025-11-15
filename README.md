@@ -5,11 +5,11 @@
 
 ## 💻 Tech I Work With
 
-**Languages**
+### **Languages**
 ![Java](https://img.shields.io/badge/Java-5382A1?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-347AB4?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-2C5F2D?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-4A148C?style=flat&logo=c-sharp&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JS-F0DB4F?style=flat&logo=javascript&logoColor=323330) ![TypeScript](https://img.shields.io/badge/TS-2F74C0?style=flat&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00618A?style=flat&logo=database&logoColor=white)
 
-**Frontend**
+### **Frontend**
 ![React](https://img.shields.io/badge/React-0A7EA2?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-DD4B25?style=flat&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-254BDD?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-0F6C78?style=flat&logo=tailwindcss&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FF8900?style=flat&logo=firebase&logoColor=white)
 
