@@ -23,7 +23,7 @@
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=black) ![Lambda](https://img.shields.io/badge/Lambda-BF5700?style=flat&logo=awslambda&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)  
-![EC2](https://img.shields.io/badge/EC2-F8991D?style=flat&logo=amazonec2&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-0D74E7?style=flat&logo=githubactions&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-F8991D?style=flat&logo=amazonec2&logoColor=white)
 
 
 ### **Databases**
