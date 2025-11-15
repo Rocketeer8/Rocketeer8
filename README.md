@@ -16,8 +16,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-254BDD?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-0F6C78?style=flat&logo=tailwindcss&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FF8900?style=flat&logo=firebase&logoColor=white)
 
 ### **Backend & APIs**
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404040?style=flat&logo=express&logoColor=white) ![REST](https://img.shields.io/badge/REST_API-005A8D?style=flat&logo=api&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2368E8?style=flat&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404040?style=flat&logo=express&logoColor=white) ![REST](https://img.shields.io/badge/REST_API-005A8D?style=flat&logo=api&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2368E8?style=flat&logo=docker&logoColor=white)
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=black) ![Lambda](https://img.shields.io/badge/Lambda-BF5700?style=flat&logo=awslambda&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-F8991D?style=flat&logo=amazonec2&logoColor=white)
