@@ -1,6 +1,7 @@
 # 👋 Hey, I’m Danny Liu
 
-I'm a 4th-year Computer Science student at Toronto Metropolitan University, passionate about building full-stack web apps, exploring data-driven insights, and designing tech that solves real-world problems. I love crafting meaningful, high-quality user experiences — whether it's a web app, a streaming site, or a research tool.
+**CS @ Toronto Metropolitan University**  
+📍 Toronto, ON • 💡 Passionate about building useful, scalable apps & solving real-world problems  
 
 ## 💻 Tech I Work With
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -19,14 +20,30 @@ I'm a 4th-year Computer Science student at Toronto Metropolitan University, pass
 - **🧠 Automated Mitosis Classifier**  
   Dockerized deep learning pipeline that analyzes cell division via segmentation, tracking, and classification, cutting manual effort by 90% and aiding scientific research.
   
-- **🌱 Eco Score Clothing Analyzer**  
-  Full-stack app scraping retail clothing data to visualize environmental impact. Built with React, Node.js, MongoDB, and AWS S3. Automated 300+ items with dynamic scores.
+### 🔹 **TuneTide – Full Stack Music/Livestream Platform**  
+**Next.js • TypeScript • Firebase Auth • Firestore**  
+- Built a responsive platform with real-time data syncing & secure authentication  
+- Developed 10+ modular components to scale UI features  
+- Optimized state management for smoother multi-user experiences
+
+### 🔹 **Tab Limiter – Productivity Chrome Extension**  
+A lightweight extension that limits open tabs to help users stay focused.  
+- Simple UI and intuitive UX  
+- Positive early user feedback for improving workflow
+
+### 🔹 **Linux Shell (Java)**  
+A functional shell emulator featuring 20+ Unix-style commands.  
+- Built with OOP patterns (Singleton, Iterator, Polymorphism)  
+- 50+ JUnit tests, 95% coverage  
+- Reduced duplication and improved modularity by 30%  
+
+👉 *More features coming soon*  
 
 ## 👨‍💻 Experience
 - **Full Stack Dev Intern @ TuneTide** (Sep 2024 – Jan 2025)  
   Developed a responsive music-streaming app with Next.js and Firebase, featuring real-time data, auth flows, and reusable UI components.
   
-- **QA Automation Tester @ Ontario Public Service** (May 2023 – Sep 2023)  
+- **QA Automation Tester @ Ontario Ministry of Education** (May 2023 – Sep 2023)  
   Automated 100+ test cases with Selenium & C#, boosting manual QA efficiency by 30%.
 
 - **Research Assistant**  
@@ -38,6 +55,8 @@ I'm a 4th-year Computer Science student at Toronto Metropolitan University, pass
 
 ## 🧠 Favorite Quote
 > “Failure is not the opposite of success, it is part of it.”
+
+### ⭐ *Thanks for visiting — feel free to explore my repos or reach out!*
 
 ---
 
