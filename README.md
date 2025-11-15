@@ -30,8 +30,7 @@
 ![SpecFlow](https://img.shields.io/badge/SpecFlow-5C2D91?style=flat&logo=specflow&logoColor=white) ![Cucumber](https://img.shields.io/badge/Cucumber-21A366?style=flat&logo=cucumber&logoColor=white)
 
 ### **Tools**
-![Git](https://img.shields.io/badge/Git-AA2C2C?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292E?style=flat&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-A357FF?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-AA2C2C?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292E?style=flat&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-A357FF?style=flat&logo=figma&logoColor=white)
 
 
 ## 🚀 Featured Projects
